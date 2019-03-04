@@ -1,0 +1,7 @@
+﻿1.นำโฟลเดอร์ 5810513065project ไปวางที่
+ C:\xampp\htdocs
+2.นำฐานข้อมูล moviedb เข้าฐานข้อมูลของคุณโดย
+ - เข้า URL "http://localhost/phpmyadmin/"
+ - กดไปที่ Import และเลือกไฟล์ในโฟลเดอร์ 5810513065project 
+   ชื่อว่า moviedb.sql จากนั้นกด Go ล่างสุด 
+3.เปิดใช้งานเว็บโดย เข้า URL "http://localhost/5810513065project/"
